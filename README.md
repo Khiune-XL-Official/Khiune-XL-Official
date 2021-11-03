@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning / teching myself to code HTML.
 - 💞️ I’m looking to collaborate on anything im asked and able to do if available.
 - 📫 How to reach me - Email me using one of my 2 emails below -                                                                 
-      mailto:khiunexlofficial@outlook.com
+      mailto:khiunexlofficial@outlook.com                                                                                          
       mailto:khiunexlofficial@gmail.com
 
 
